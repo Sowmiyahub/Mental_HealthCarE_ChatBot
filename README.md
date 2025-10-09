@@ -54,7 +54,7 @@ Ensure you have the following installed:
 - Breathing Flower
 - Journalling for manual tracking
 - Stress Relief Activities - Virtual Plant, Virtual Bunny, Game
-- SOS Hotline (Only Malaysia)
+- SOS Hotline
 - Edit profile
 
 ## Technical Domain
